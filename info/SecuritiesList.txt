@@ -1,0 +1,8 @@
+Securities
+
+Stocks:
+CBOM
+SBER
+
+Currencies:
+USDRUB_TOM
